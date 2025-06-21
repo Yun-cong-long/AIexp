@@ -4,7 +4,7 @@ import matplotlib.font_manager as fm
 from matplotlib import rcParams
 import os
 
-# Ubuntu 22.04 中文字体解决方案
+# 重启一下其实就好了
 def set_chinese_font():
     try:
         # 尝试常见中文字体路径
